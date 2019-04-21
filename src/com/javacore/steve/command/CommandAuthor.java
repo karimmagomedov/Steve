@@ -1,6 +1,6 @@
-package com.javacore.Steve.command;
+package com.javacore.steve.command;
 
-import com.javacore.Steve.Application;
+import com.javacore.steve.Application;
 
 public class CommandAuthor extends ACommand {
 

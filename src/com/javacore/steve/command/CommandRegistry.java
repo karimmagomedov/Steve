@@ -1,4 +1,4 @@
-package com.javacore.Steve.command;
+package com.javacore.steve.command;
 
 import java.util.HashMap;
 import java.util.Iterator;

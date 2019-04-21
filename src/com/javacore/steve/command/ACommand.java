@@ -1,4 +1,4 @@
-package com.javacore.Steve.command;
+package com.javacore.steve.command;
 
 /**
  * This my abstract ACommand class from which will be extended another command classes
