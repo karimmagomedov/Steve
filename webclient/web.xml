@@ -1,0 +1,8 @@
+<webclient>
+    <handlers>
+        <handler path="/pages/" class="com.epam.javacore2019.steve2.webservice.HtmlHandler"></handler>
+        <handler path="/css/" class="com.epam.javacore2019.steve2.webservice.CssHandler"></handler>
+        <handler path="/js/" class="com.epam.javacore2019.steve2.webservice.JsHandler"></handler>
+        <handler path="/api/criminals" class="com.epam.javacore2019.steve2.webservice.ApiCriminalsHandler"></handler>
+    </handlers>
+</webclient>
